@@ -60,6 +60,7 @@ function draw() {
   fill(15, 146, 230);
   noStroke();
   ellipse(125, 365, 200, 60);
+  
   fill(50, 167, 242);
   ellipse(125, 365, 175, 45);
 
